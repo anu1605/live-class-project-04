@@ -180,14 +180,16 @@ p{
         font-size: 4rem;
     }
     img[alt=illustration]{
-        width: 40vw;
+        width: 60vw;
     }
 }
 @media screen and (min-width:1800px) {
     .heading-text{
-        font-size: 5rem;
+        padding-left: 1rem;
+        font-size: 6rem;
     }
     .description{
+        padding-left: 1rem;
         font-size: 1.5rem;
     }
 }
