@@ -120,9 +120,7 @@ body{
 img[alt=illustration]{
     width: 100%;
 }
-.banner-container div:first-child{
-    padding: 0 1rem;
-}
+
 .heading-text{
     margin-bottom: 0;
     font-size: 2.3rem;
@@ -181,6 +179,7 @@ p{
         font-size: 4rem;
     }
     img[alt=illustration]{
+        height: 80vh;
         width: 50vw;
     }
 }
@@ -195,11 +194,10 @@ p{
         padding-left: 0;
     }
     .heading-text{
-        padding-left: 1.5rem;
         font-size: 5rem;
     }
     .description{
-        padding-left: 1rem;
+        padding-left: 1rem 2rem;
         font-size: 1.5rem;
     }
 }
