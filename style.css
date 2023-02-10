@@ -180,7 +180,7 @@ p{
         font-size: 4rem;
     }
     img[alt=illustration]{
-        width: 50vw;
+        width: 40vw;
     }
 }
 @media screen and (min-width:1800px) {
