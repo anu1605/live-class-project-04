@@ -185,6 +185,7 @@ p{
         margin: 2rem 0;
         font-size: 1rem;
     }
+    .list-item
     img[alt=illustration]{
         height: 80vh;
         width: 60vw;
@@ -200,11 +201,13 @@ p{
     .heading-text , .description{
         padding-left: 0;
     }
+    .list-item , .nav-button{
+        font-size: 1.5rem;
+    }
     .heading-text{
         font-size: 5rem;
     }
     .description{
-        padding: 0rem 2rem;
         font-size: 1.5rem;
     }
     body{
